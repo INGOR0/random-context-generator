@@ -1,0 +1,10 @@
+{
+	"action": [
+		"running", "jumping", "dancing", "singing", "talking",
+		"playing", "eating", "sleeping", "laughing", "thinking",
+		"working", "traveling", "drawing", "fighting", "cooking",
+		"watching", "listening", "hiking", "swimming", "studying",
+		"building", "shopping", "exploring", "waiting", "driving",
+		"cleaning", "training", "fishing", "gardening"
+		]
+}
